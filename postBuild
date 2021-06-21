@@ -1,4 +1,4 @@
 #!/bin/bash
 
 pip install nbconvert[webpdf]
-sudo apt-get install texlive-xetex texlive-fonts-recommended texlive-latex-recommended
+#sudo apt-get install texlive-xetex texlive-fonts-recommended texlive-latex-recommended
