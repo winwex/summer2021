@@ -1,0 +1,307 @@
+﻿location,geographic_level,time_period,school_type,progress_subject,characteristic_gender,improvement,count_no_entries,percent_entered
+England,country,201718,All schools and FE sector colleges,English,All genders,0.08365,128644,82.14607755
+England,country,201718,All schools and FE sector colleges,English,Female,0.12754,45918,83.10466484
+England,country,201718,All schools and FE sector colleges,English,Male,0.05923,82724,81.61355834
+England,country,201718,All schools and FE sector colleges,Maths,All genders,0.06772,161474,84.49533671
+England,country,201718,All schools and FE sector colleges,Maths,Female,0.07488,77904,85.80945779
+England,country,201718,All schools and FE sector colleges,Maths,Male,0.06105,83568,83.26991193
+England,country,201718,All schools,English,All genders,0.31526,20430,80.42584435
+England,country,201718,All schools,English,Female,0.34267,7186,81.85360423
+England,country,201718,All schools,English,Male,0.30033,13243,79.64962622
+England,country,201718,All schools,Maths,All genders,0.23838,30465,86.06597735
+England,country,201718,All schools,Maths,Female,0.27286,16384,88.74511719
+England,country,201718,All schools,Maths,Male,0.1982,14080,82.94744318
+England,country,201718,All state-funded schools and colleges,English,All genders,0.0868,126616,82.69492007
+England,country,201718,All state-funded schools and colleges,English,Female,0.13188,45286,83.64615996
+England,country,201718,All state-funded schools and colleges,English,Male,0.06165,81329,82.16503338
+England,country,201718,All state-funded schools and colleges,Maths,All genders,0.06728,159392,84.7884461
+England,country,201718,All state-funded schools and colleges,Maths,Female,0.07524,77054,86.08897656
+England,country,201718,All state-funded schools and colleges,Maths,Male,0.05985,82337,83.57117699
+England,country,201718,All FE sector colleges,English,All genders,-0.06458,124666,78.62448462
+England,country,201718,All FE sector colleges,English,Female,-0.02065,44622,79.64905204
+England,country,201718,All FE sector colleges,English,Male,-0.08912,80043,78.05304649
+England,country,201718,All FE sector colleges,Maths,All genders,-0.07945,152140,80.23136585
+England,country,201718,All FE sector colleges,Maths,Female,-0.08689,71803,81.11778059
+England,country,201718,All FE sector colleges,Maths,Male,-0.07279,80336,79.4388568
+England,country,201718,Other FE sector colleges,English,All genders,-0.101,116682,77.86205242
+England,country,201718,Other FE sector colleges,English,Female,-0.05866,41384,78.87589407
+England,country,201718,Other FE sector colleges,English,Male,-0.12433,75297,77.30454069
+England,country,201718,Other FE sector colleges,Maths,All genders,-0.12439,139712,79.29812758
+England,country,201718,Other FE sector colleges,Maths,Female,-0.14481,64440,79.98758535
+England,country,201718,Other FE sector colleges,Maths,Male,-0.1069,75271,78.70760319
+England,country,201718,Sixth form colleges,English,All genders,0.46775,7984,89.76703407
+England,country,201718,Sixth form colleges,English,Female,0.46516,3238,89.53057443
+England,country,201718,Sixth form colleges,English,Male,0.46951,4746,89.92836072
+England,country,201718,Sixth form colleges,Maths,All genders,0.42577,12428,90.72256196
+England,country,201718,Sixth form colleges,Maths,Female,0.42002,7363,91.00909955
+England,country,201718,Sixth form colleges,Maths,Male,0.43414,5065,90.30602172
+England,country,201718,All independent schools,English,All genders,-0.29022,2373,43.06784661
+England,country,201718,All independent schools,English,Female,-0.36966,735,38.36734694
+England,country,201718,All independent schools,English,Male,-0.25535,1637,45.14355528
+England,country,201718,All independent schools,Maths,All genders,-0.12158,2428,54.61285008
+England,country,201718,All independent schools,Maths,Female,-0.17807,1003,53.14057827
+England,country,201718,All independent schools,Maths,Male,-0.08258,1424,55.61797753
+England,country,201718,Independent schools,English,All genders,-0.24256,1283,43.88152767
+England,country,201718,Independent schools,English,Female,-0.28738,404,41.33663366
+England,country,201718,Independent schools,English,Male,-0.22335,878,44.98861048
+England,country,201718,Independent schools,Maths,All genders,0.06325,1249,64.85188151
+England,country,201718,Independent schools,Maths,Female,-0.01683,600,62.33333333
+England,country,201718,Independent schools,Maths,Male,0.13596,648,67.12962963
+England,country,201718,Independent special schools,English,All genders,-0.34633,1090,42.11009174
+England,country,201718,Independent special schools,English,Female,-0.47009,331,34.74320242
+England,country,201718,Independent special schools,English,Male,-0.29236,759,45.32279315
+England,country,201718,Independent special schools,Maths,All genders,-0.31739,1179,43.76590331
+England,country,201718,Independent special schools,Maths,Female,-0.41811,403,39.45409429
+England,country,201718,Independent special schools,Maths,Male,-0.26508,776,46.00515464
+England,country,201718,All state-funded schools,English,All genders,0.40549,17792,85.97122302
+England,country,201718,All state-funded schools,English,Female,0.43569,6347,87.47439735
+England,country,201718,All state-funded schools,English,Male,0.38875,11445,85.13761468
+England,country,201718,All state-funded schools,Maths,All genders,0.27501,27724,89.24036936
+England,country,201718,All state-funded schools,Maths,Female,0.30702,15251,91.449741
+England,country,201718,All state-funded schools,Maths,Male,0.23586,12473,86.53892408
+England,country,201718,Converter academies - mainstream,English,All genders,0.53399,7253,91.10712808
+England,country,201718,Converter academies - mainstream,English,Female,0.52696,2656,91.22740964
+England,country,201718,Converter academies - mainstream,English,Male,0.53805,4597,91.03763324
+England,country,201718,Converter academies - mainstream,Maths,All genders,0.38365,12192,93.37270341
+England,country,201718,Converter academies - mainstream,Maths,Female,0.38485,7201,93.91751146
+England,country,201718,Converter academies - mainstream,Maths,Male,0.38191,4991,92.58665598
+England,country,201718,Free schools,English,All genders,0.40331,151,86.75496689
+England,country,201718,Free schools,English,Female,0.55882,17,76.47058824
+England,country,201718,Free schools,English,Male,0.38358,134,88.05970149
+England,country,201718,Free schools,Maths,All genders,0.04783,161,80.1242236
+England,country,201718,Free schools,Maths,Female,-0.06034,58,70.68965517
+England,country,201718,Free schools,Maths,Male,0.10874,103,85.4368932
+England,country,201718,Free schools 16-19,English,All genders,0.18036,168,83.33333333
+England,country,201718,Free schools 16-19,English,Female,0.49492,59,86.44067797
+England,country,201718,Free schools 16-19,English,Male,0.01009,109,81.65137615
+England,country,201718,Free schools 16-19,Maths,All genders,0.20217,276,88.4057971
+England,country,201718,Free schools 16-19,Maths,Female,0.28217,157,90.44585987
+England,country,201718,Free schools 16-19,Maths,Male,0.09664,119,85.71428571
+England,country,201718,LA maintained mainstream schools,English,All genders,0.53774,4210,91.25890736
+England,country,201718,LA maintained mainstream schools,English,Female,0.55518,1622,92.23181258
+England,country,201718,LA maintained mainstream schools,English,Male,0.52682,2588,90.64914992
+England,country,201718,LA maintained mainstream schools,Maths,All genders,0.36201,6994,92.93680297
+England,country,201718,LA maintained mainstream schools,Maths,Female,0.37918,4039,94.05793513
+England,country,201718,LA maintained mainstream schools,Maths,Male,0.33854,2955,91.40439932
+England,country,201718,Sponsored academies - mainstream,English,All genders,0.33923,3857,86.15504278
+England,country,201718,Sponsored academies - mainstream,English,Female,0.39186,1351,88.97113249
+England,country,201718,Sponsored academies - mainstream,English,Male,0.31085,2506,84.63687151
+England,country,201718,Sponsored academies - mainstream,Maths,All genders,0.13756,5748,88.5177453
+England,country,201718,Sponsored academies - mainstream,Maths,Female,0.18536,2937,91.72625128
+England,country,201718,Sponsored academies - mainstream,Maths,Male,0.08762,2811,85.16542156
+England,country,201718,Studio schools,English,All genders,0.22991,341,78.8856305
+England,country,201718,Studio schools,English,Female,0.22133,150,80
+England,country,201718,Studio schools,English,Male,0.23665,191,78.0104712
+England,country,201718,Studio schools,Maths,All genders,-0.04714,420,73.57142857
+England,country,201718,Studio schools,Maths,Female,-0.06826,230,73.91304348
+England,country,201718,Studio schools,Maths,Male,-0.02158,190,73.15789474
+England,country,201718,University Technical Colleges (UTCs),English,All genders,0.4284,500,87.8
+England,country,201718,University Technical Colleges (UTCs),English,Female,0.58421,76,92.10526316
+England,country,201718,University Technical Colleges (UTCs),English,Male,0.40047,424,87.02830189
+England,country,201718,University Technical Colleges (UTCs),Maths,All genders,0.32836,402,91.54228856
+England,country,201718,University Technical Colleges (UTCs),Maths,Female,0.21154,130,93.07692308
+England,country,201718,University Technical Colleges (UTCs),Maths,Male,0.38419,272,90.80882353
+England,country,201819,All schools and FE sector colleges,English,All genders,0.14502,118038,82.36330673
+England,country,201819,All schools and FE sector colleges,English,Female,0.16132,41036,83.12701043
+England,country,201819,All schools and FE sector colleges,English,Male,0.13635,77000,81.95714286
+England,country,201819,All schools and FE sector colleges,Maths,All genders,0.10088,155324,85.45620767
+England,country,201819,All schools and FE sector colleges,Maths,Female,0.10761,76043,86.92844838
+England,country,201819,All schools and FE sector colleges,Maths,Male,0.09441,79279,84.04369379
+England,country,201819,All schools,English,All genders,0.30436,18665,79.01955532
+England,country,201819,All schools,English,Female,0.27131,6428,79.38705663
+England,country,201819,All schools,English,Male,0.32167,12236,78.82477934
+England,country,201819,All schools,Maths,All genders,0.26901,30424,86.54351828
+England,country,201819,All schools,Maths,Female,0.32542,17021,89.65983197
+England,country,201819,All schools,Maths,Male,0.19734,13401,82.5833893
+England,country,201819,All state-funded schools and colleges,English,All genders,0.15067,116018,83.0681446
+England,country,201819,All state-funded schools and colleges,English,Female,0.1677,40362,83.83380407
+England,country,201819,All state-funded schools and colleges,English,Male,0.1416,75655,82.66076267
+England,country,201819,All state-funded schools and colleges,Maths,All genders,0.10211,153295,85.82341237
+England,country,201819,All state-funded schools and colleges,Maths,Female,0.10824,75187,87.23582534
+England,country,201819,All state-funded schools and colleges,Maths,Male,0.0962,78108,84.46381933
+England,country,201819,All FE sector colleges,English,All genders,0.02414,111932,79.82167745
+England,country,201819,All FE sector colleges,English,Female,0.04805,39028,80.61391821
+England,country,201819,All FE sector colleges,English,Male,0.01136,72903,79.398653
+England,country,201819,All FE sector colleges,Maths,All genders,-0.0319,141918,81.93322905
+England,country,201819,All FE sector colleges,Maths,Female,-0.04636,67290,82.85777976
+England,country,201819,All FE sector colleges,Maths,Male,-0.01886,74628,81.09958729
+England,country,201819,Other FE sector colleges,English,All genders,-0.002,105803,79.3238377
+England,country,201819,Other FE sector colleges,English,Female,0.0209,36620,80.12834517
+England,country,201819,Other FE sector colleges,English,Male,-0.0141,69182,78.89913561
+England,country,201819,Other FE sector colleges,Maths,All genders,-0.06731,131379,81.22378767
+England,country,201819,Other FE sector colleges,Maths,Female,-0.09303,60972,81.99009381
+England,country,201819,Other FE sector colleges,Maths,Male,-0.04503,70407,80.56017157
+England,country,201819,Sixth form colleges,English,All genders,0.47535,6129,88.4157285
+England,country,201819,Sixth form colleges,English,Female,0.46096,2408,87.99833887
+England,country,201819,Sixth form colleges,English,Male,0.48465,3721,88.68583714
+England,country,201819,Sixth form colleges,Maths,All genders,0.40946,10539,90.77711358
+England,country,201819,Sixth form colleges,Maths,Female,0.40408,6318,91.23140234
+England,country,201819,Sixth form colleges,Maths,Male,0.41751,4221,90.09713338
+England,country,201819,All independent schools,English,All genders,-0.35393,2288,36.66958042
+England,country,201819,All independent schools,English,Female,-0.40831,746,34.18230563
+England,country,201819,All independent schools,English,Male,-0.32849,1541,37.83257625
+England,country,201819,All independent schools,Maths,All genders,-0.19723,2348,50.42589438
+England,country,201819,All independent schools,Maths,Female,-0.17886,998,51.50300601
+England,country,201819,All independent schools,Maths,Male,-0.21187,1348,49.55489614
+England,country,201819,Independent schools,English,All genders,-0.40197,1114,32.31597846
+England,country,201819,Independent schools,English,Female,-0.43558,371,29.11051213
+England,country,201819,Independent schools,English,Male,-0.3852,743,33.91655451
+England,country,201819,Independent schools,Maths,All genders,0.03836,1061,61.54571159
+England,country,201819,Independent schools,Maths,Female,0.01232,544,62.5
+England,country,201819,Independent schools,Maths,Male,0.06576,517,60.54158607
+England,country,201819,Independent special schools,English,All genders,-0.30835,1174,40.80068143
+England,country,201819,Independent special schools,English,Female,-0.38133,375,39.2
+England,country,201819,Independent special schools,English,Male,-0.27569,798,41.47869674
+England,country,201819,Independent special schools,Maths,All genders,-0.39145,1287,41.25874126
+England,country,201819,Independent special schools,Maths,Female,-0.40793,454,38.32599119
+England,country,201819,Independent special schools,Maths,Male,-0.3846,831,42.71961492
+England,country,201819,All state-funded schools,English,All genders,0.40319,16118,85.44484427
+England,country,201819,All state-funded schools,English,Female,0.36909,5564,85.99928109
+England,country,201819,All state-funded schools,English,Male,0.42117,10554,85.1525488
+England,country,201819,All state-funded schools,Maths,All genders,0.3134,27771,89.96075042
+England,country,201819,All state-funded schools,Maths,Female,0.3612,15880,92.40554156
+England,country,201819,All state-funded schools,Maths,Male,0.24955,11891,86.69582037
+England,country,201819,Converter academies - mainstream,English,All genders,0.54394,7101,90.32530629
+England,country,201819,Converter academies - mainstream,English,Female,0.49654,2515,90.89463221
+England,country,201819,Converter academies - mainstream,English,Male,0.56993,4586,90.0130833
+England,country,201819,Converter academies - mainstream,Maths,All genders,0.42278,13284,93.45829569
+England,country,201819,Converter academies - mainstream,Maths,Female,0.44475,8080,94.55445545
+England,country,201819,Converter academies - mainstream,Maths,Male,0.38866,5204,91.75634128
+England,country,201819,Free schools,English,All genders,0.3622,82,85.36585366
+England,country,201819,Free schools,English,Female,0.31333,15,86.66666667
+England,country,201819,Free schools,English,Male,0.37313,67,85.07462687
+England,country,201819,Free schools,Maths,All genders,0.05043,117,75.21367521
+England,country,201819,Free schools,Maths,Female,0.008,50,74
+England,country,201819,Free schools,Maths,Male,0.08209,67,76.11940299
+England,country,201819,Free schools 16-19,English,All genders,0.15846,195,74.87179487
+England,country,201819,Free schools 16-19,English,Female,0.33654,52,84.61538462
+England,country,201819,Free schools 16-19,English,Male,0.09371,143,71.32867133
+England,country,201819,Free schools 16-19,Maths,All genders,0.44049,410,90.24390244
+England,country,201819,Free schools 16-19,Maths,Female,0.57672,232,93.10344828
+England,country,201819,Free schools 16-19,Maths,Male,0.26292,178,86.51685393
+England,country,201819,LA maintained mainstream schools,English,All genders,0.53996,3233,91.33931333
+England,country,201819,LA maintained mainstream schools,English,Female,0.4905,1116,91.21863799
+England,country,201819,LA maintained mainstream schools,English,Male,0.56604,2117,91.40292867
+England,country,201819,LA maintained mainstream schools,Maths,All genders,0.37472,5937,94.23951491
+England,country,201819,LA maintained mainstream schools,Maths,Female,0.40296,3475,95.68345324
+England,country,201819,LA maintained mainstream schools,Maths,Male,0.33485,2462,92.20146223
+England,country,201819,Sponsored academies - mainstream,English,All genders,0.32594,3497,87.67515013
+England,country,201819,Sponsored academies - mainstream,English,Female,0.34253,1286,89.34681182
+England,country,201819,Sponsored academies - mainstream,English,Male,0.31628,2211,86.70284939
+England,country,201819,Sponsored academies - mainstream,Maths,All genders,0.21284,5710,90.87565674
+England,country,201819,Sponsored academies - mainstream,Maths,Female,0.25592,3185,92.65306122
+England,country,201819,Sponsored academies - mainstream,Maths,Male,0.1585,2525,88.63366337
+England,country,201819,Studio schools,English,All genders,0.21333,225,75.55555556
+England,country,201819,Studio schools,English,Female,-0.05955,89,59.5505618
+England,country,201819,Studio schools,English,Male,0.39191,136,86.02941176
+England,country,201819,Studio schools,Maths,All genders,-0.03333,336,77.97619048
+England,country,201819,Studio schools,Maths,Female,0.00385,182,78.02197802
+England,country,201819,Studio schools,Maths,Male,-0.07727,154,77.92207792
+England,country,201819,University Technical Colleges (UTCs),English,All genders,0.44167,492,89.83739837
+England,country,201819,University Technical Colleges (UTCs),English,Female,0.1127,63,84.12698413
+England,country,201819,University Technical Colleges (UTCs),English,Male,0.48998,429,90.67599068
+England,country,201819,University Technical Colleges (UTCs),Maths,All genders,0.2541,427,91.10070258
+England,country,201819,University Technical Colleges (UTCs),Maths,Female,0.14371,151,88.0794702
+England,country,201819,University Technical Colleges (UTCs),Maths,Male,0.31449,276,92.75362319
+England,country,201920,All schools and FE sector colleges,English,All genders,0.31629,114178,83.37595684
+England,country,201920,All schools and FE sector colleges,English,Female,0.31346,39277,83.39740815
+England,country,201920,All schools and FE sector colleges,English,Male,0.31776,74900,83.36448598
+England,country,201920,All schools and FE sector colleges,Maths,All genders,0.27508,150445,85.46113198
+England,country,201920,All schools and FE sector colleges,Maths,Female,0.30323,74169,86.73434993
+England,country,201920,All schools and FE sector colleges,Maths,Male,0.24772,76275,84.22287775
+England,country,201920,All schools,English,All genders,0.41438,17095,79.42673296
+England,country,201920,All schools,English,Female,0.40999,5841,80.6539976
+England,country,201920,All schools,English,Male,0.41665,11254,78.78976364
+England,country,201920,All schools,Maths,All genders,0.43742,28161,86.26824332
+England,country,201920,All schools,Maths,Female,0.50907,16012,89.73894579
+England,country,201920,All schools,Maths,Male,0.34297,12149,81.69396658
+England,country,201920,All state-funded schools and colleges,English,All genders,0.32339,112347,84.05653912
+England,country,201920,All state-funded schools and colleges,English,Female,0.31894,38686,84.00454945
+England,country,201920,All state-funded schools and colleges,English,Male,0.32572,73660,84.08362748
+England,country,201920,All state-funded schools and colleges,Maths,All genders,0.27732,148463,85.85977651
+England,country,201920,All state-funded schools and colleges,Maths,Female,0.30438,73343,87.04716197
+England,country,201920,All state-funded schools and colleges,Maths,Male,0.2509,75119,84.70027556
+England,country,201920,All FE sector colleges,English,All genders,0.19125,109198,80.42821297
+England,country,201920,All FE sector colleges,English,Female,0.19027,37607,80.34674396
+England,country,201920,All FE sector colleges,English,Male,0.19176,71591,80.47100893
+England,country,201920,All FE sector colleges,Maths,All genders,0.1308,138863,81.49327035
+England,country,201920,All FE sector colleges,Maths,Female,0.13675,66288,82.1264784
+England,country,201920,All FE sector colleges,Maths,Male,0.12539,72574,80.91603053
+England,country,201920,Other FE sector colleges,English,All genders,0.16759,103556,79.99922747
+England,country,201920,Other FE sector colleges,English,Female,0.16366,35376,79.81117142
+England,country,201920,Other FE sector colleges,English,Male,0.16963,68180,80.09680258
+England,country,201920,Other FE sector colleges,Maths,All genders,0.10028,128792,80.91574011
+England,country,201920,Other FE sector colleges,Maths,Female,0.09622,60099,81.41233631
+England,country,201920,Other FE sector colleges,Maths,Male,0.10384,68692,80.48244337
+England,country,201920,Sixth form colleges,English,All genders,0.62549,5642,88.30202056
+England,country,201920,Sixth form colleges,English,Female,0.61228,2231,88.83908561
+England,country,201920,Sixth form colleges,English,Male,0.63412,3411,87.95074758
+England,country,201920,Sixth form colleges,Maths,All genders,0.52121,10071,88.87895939
+England,country,201920,Sixth form colleges,Maths,Female,0.53032,6189,89.06123768
+England,country,201920,Sixth form colleges,Maths,Male,0.50668,3882,88.58835652
+England,country,201920,All independent schools,English,All genders,-0.29415,2095,36.9928401
+England,country,201920,All independent schools,English,Female,-0.25486,669,38.86397608
+England,country,201920,All independent schools,English,Male,-0.31259,1426,36.11500701
+England,country,201920,All independent schools,Maths,All genders,-0.10318,2280,49.16666667
+England,country,201920,All independent schools,Maths,Female,-0.04709,961,51.40478668
+England,country,201920,All independent schools,Maths,Male,-0.14405,1319,47.53601213
+England,country,201920,Independent schools,English,All genders,-0.32885,967,31.0237849
+England,country,201920,Independent schools,English,Female,-0.30788,311,32.47588424
+England,country,201920,Independent schools,English,Male,-0.3388,656,30.33536585
+England,country,201920,Independent schools,Maths,All genders,0.19231,1040,59.90384615
+England,country,201920,Independent schools,Maths,Female,0.2125,500,61.4
+England,country,201920,Independent schools,Maths,Male,0.17361,540,58.51851852
+England,country,201920,Independent special schools,English,All genders,-0.26441,1128,42.10992908
+England,country,201920,Independent special schools,English,Female,-0.2088,358,44.41340782
+England,country,201920,Independent special schools,English,Male,-0.29026,770,41.03896104
+England,country,201920,Independent special schools,Maths,All genders,-0.35101,1240,40.16129032
+England,country,201920,Independent special schools,Maths,Female,-0.32863,461,40.56399132
+England,country,201920,Independent special schools,Maths,Male,-0.36425,779,39.92297818
+England,country,201920,All state-funded schools,English,All genders,0.52013,14790,85.76064909
+England,country,201920,All state-funded schools,English,Female,0.5002,5092,86.42969364
+England,country,201920,All state-funded schools,English,Male,0.5306,9698,85.40936276
+England,country,201920,All state-funded schools,Maths,All genders,0.4905,25633,89.87243007
+England,country,201920,All state-funded schools,Maths,Female,0.5481,14953,92.41623754
+England,country,201920,All state-funded schools,Maths,Male,0.40986,10680,86.31086142
+England,country,201920,Converter academies - mainstream,English,All genders,0.67427,6685,90.77038145
+England,country,201920,Converter academies - mainstream,English,Female,0.64598,2348,90.41737649
+England,country,201920,Converter academies - mainstream,English,Male,0.68959,4337,90.96149412
+England,country,201920,Converter academies - mainstream,Maths,All genders,0.59213,12781,93.42774431
+England,country,201920,Converter academies - mainstream,Maths,Female,0.61798,7802,94.28351705
+England,country,201920,Converter academies - mainstream,Maths,Male,0.55163,4979,92.08676441
+England,country,201920,Free schools,English,All genders,0.4413,115,81.73913043
+England,country,201920,Free schools,English,Female,0.40625,24,75
+England,country,201920,Free schools,English,Male,0.45055,91,83.51648352
+England,country,201920,Free schools,Maths,All genders,0.31842,190,75.78947368
+England,country,201920,Free schools,Maths,Female,0.28947,76,76.31578947
+England,country,201920,Free schools,Maths,Male,0.33772,114,75.43859649
+England,country,201920,Free schools 16-19,English,All genders,0.58025,243,84.77366255
+England,country,201920,Free schools 16-19,English,Female,0.62353,85,89.41176471
+England,country,201920,Free schools 16-19,English,Male,0.55696,158,82.27848101
+England,country,201920,Free schools 16-19,Maths,All genders,0.6637,478,91.63179916
+England,country,201920,Free schools 16-19,Maths,Female,0.66809,293,93.17406143
+England,country,201920,Free schools 16-19,Maths,Male,0.65676,185,89.18918919
+England,country,201920,LA maintained mainstream schools,English,All genders,0.56893,2782,90.18691589
+England,country,201920,LA maintained mainstream schools,English,Female,0.52982,981,90.51987768
+England,country,201920,LA maintained mainstream schools,English,Male,0.59023,1801,90.00555247
+England,country,201920,LA maintained mainstream schools,Maths,All genders,0.53289,5154,93.7524253
+England,country,201920,LA maintained mainstream schools,Maths,Female,0.57328,3112,95.11568123
+England,country,201920,LA maintained mainstream schools,Maths,Male,0.47133,2042,91.6748286
+England,country,201920,Sponsored academies - mainstream,English,All genders,0.45003,2997,88.75542209
+England,country,201920,Sponsored academies - mainstream,English,Female,0.43202,1107,89.52122855
+England,country,201920,Sponsored academies - mainstream,English,Male,0.46058,1890,88.30687831
+England,country,201920,Sponsored academies - mainstream,Maths,All genders,0.41654,4768,91.33808725
+England,country,201920,Sponsored academies - mainstream,Maths,Female,0.46302,2839,92.42691088
+England,country,201920,Sponsored academies - mainstream,Maths,Male,0.34813,1929,89.73561431
+England,country,201920,Studio schools,English,All genders,0.50225,222,79.27927928
+England,country,201920,Studio schools,English,Female,0.41667,72,83.33333333
+England,country,201920,Studio schools,English,Male,0.54333,150,77.33333333
+England,country,201920,Studio schools,Maths,All genders,0.31667,285,85.61403509
+England,country,201920,Studio schools,Maths,Female,0.43792,149,87.24832215
+England,country,201920,Studio schools,Maths,Male,0.18382,136,83.82352941
+England,country,201920,University Technical Colleges (UTCs),English,All genders,0.76838,517,91.4893617
+England,country,201920,University Technical Colleges (UTCs),English,Female,0.75843,89,93.25842697
+England,country,201920,University Technical Colleges (UTCs),English,Male,0.77044,428,91.12149533
+England,country,201920,University Technical Colleges (UTCs),Maths,All genders,0.61704,487,93.01848049
+England,country,201920,University Technical Colleges (UTCs),Maths,Female,0.66279,215,96.27906977
+England,country,201920,University Technical Colleges (UTCs),Maths,Male,0.58088,272,90.44117647
